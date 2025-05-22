@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/place-details.jsx", "app/(tabs)/explore.jsx", "app/art-details.jsx", "app/welcome.jsx", "app/welcome.jsx", "app/_layout.jsx", "context/AuthContext.js", "context/AuthContext.js", "context/AuthContext.js", "app/details.jsx", "app/profile-page.jsx", "app/add-art.jsx", "app/add-art.jsx", "app/help-page.jsx", "app/edit-profile.jsx"  ]
 }

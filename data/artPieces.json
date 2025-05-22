@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Starry Night",
+      "description": "A beautiful night sky painting.",
+      "image": "https://dummyjson.com/image/400x200/282828",
+      "price": 1200,
+      "badge": "Economic"
+    },
+    {
+      "id": 2,
+      "title": "Mona Lisa",
+      "description": "The famous portrait by Leonardo da Vinci.",
+      "image": "https://dummyjson.com/image/400x200/282828",
+      "price": 2500,
+      "badge": "Economic"
+    },
+    {
+      "id": 3,
+      "title": "The Scream",
+      "description": "An iconic expressionist artwork.",
+      "image": "https://dummyjson.com/image/400x200/282828",
+      "price": 1800,
+      "badge": "Economic"
+    }
+  ]
