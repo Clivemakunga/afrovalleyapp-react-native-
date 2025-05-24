@@ -246,6 +246,38 @@ export default function RootLayout() {
             headerBackTitle: 'Back'
           }}
         />
+                 <Stack.Screen
+          name="collaborations"
+          options={{
+            title: 'Collaborations', // Custom title
+            headerShown: true,
+            headerBackTitle: 'Back'
+          }}
+        />
+        <Stack.Screen
+          name="workshops"
+          options={{
+            title: 'Workshops', // Custom title
+            headerShown: true,
+            headerBackTitle: 'Back'
+          }}
+        />
+        <Stack.Screen
+          name="skills"
+          options={{
+            title: 'Professions', // Custom title
+            headerShown: true,
+            headerBackTitle: 'Back'
+          }}
+        />
+        <Stack.Screen
+          name="chat"
+          options={{
+            title: 'Chats', // Custom title
+            headerShown: true,
+            headerBackTitle: 'Back'
+          }}
+        />
       </Stack>
     </View>
   );
