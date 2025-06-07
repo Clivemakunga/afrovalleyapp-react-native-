@@ -392,9 +392,9 @@ const handleComment = (post) => {
         {/* Header */}
         <View style={styles.header}>
           <Text style={styles.headerText}>Afro Valley Tribe</Text>
-          <TouchableOpacity onPress={() => router.push('/chat')}>
+          {/* <TouchableOpacity onPress={() => router.push('/chat')}>
             <FontAwesome name="wechat" size={24} color="#333" />
-          </TouchableOpacity>
+          </TouchableOpacity> */}
         </View>
 
         {/* Search and Filters */}
